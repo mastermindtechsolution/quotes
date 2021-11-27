@@ -1,0 +1,87 @@
+$(document).ready(function(){
+    $("#flip2").click(function(){
+      $("#panel2").slideToggle("slow");
+    });
+  });
+  $(document).ready(function(){
+    $("#flip3").click(function(){
+      $("#panel3").slideToggle("slow");
+    });
+  });
+  $(document).ready(function(){
+    $("#flip4").click(function(){
+      $("#panel4").slideToggle("slow");
+    });
+  });
+  $(document).ready(function(){
+    $("#flip5").click(function(){
+      $("#panel5").slideToggle("slow");
+    });
+  });
+  $(document).ready(function(){
+    $("#flip6").click(function(){
+      $("#panel6").slideToggle("slow");
+    });
+  });
+  $(document).ready(function(){
+    $("#flip7").click(function(){
+      $("#panel7").slideToggle("slow");
+    });
+  });
+  $(document).ready(function(){
+    $("#flip8").click(function(){
+      $("#panel8").slideToggle("slow");
+    });
+  });
+  $(document).ready(function(){
+    $("#flip9").click(function(){
+      $("#panel9").slideToggle("slow");
+    });
+  });
+  $(document).ready(function(){
+    $("#flip10").click(function(){
+      $("#panel10").slideToggle("slow");
+    });
+  });
+
+  $(document).ready(function(){
+    $("#flip11").click(function(){
+      $("#panel11").slideToggle("slow");
+    });
+  });
+
+  $(document).ready(function(){
+    $("#flip12").click(function(){
+      $("#panel12").slideToggle("slow");
+    });
+  });
+
+  $(document).ready(function(){
+    $("#flip13").click(function(){
+      $("#panel13").slideToggle("slow");
+    });
+  });
+
+  $(document).ready(function(){
+    $("#flip14").click(function(){
+      $("#panel14").slideToggle("slow");
+    });
+  });
+
+  $(document).ready(function(){
+    $("#flip15").click(function(){
+      $("#panel15").slideToggle("slow");
+    });
+  });
+
+  $(document).ready(function(){
+    $("#flip16").click(function(){
+      $("#panel16").slideToggle("slow");
+    });
+  });
+
+  $(document).ready(function(){
+    $("#flip17").click(function(){
+      $("#panel17").slideToggle("slow");
+    });
+  });
